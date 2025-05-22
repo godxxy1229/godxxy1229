@@ -17,15 +17,7 @@
     <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" style="margin: 5px;">
   </div>
   <br />
-  <br />
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/godxxy1229"
-  width="500"
-  height="200"
-/>
-</a>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godxxy1229&layout=compact" style="margin: 10px; display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api?username=godxxy1229&show_icons=true" style="margin: 10px; display: inline-block;">
